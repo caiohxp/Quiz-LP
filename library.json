@@ -1,0 +1,30 @@
+[
+    {
+        "pergunta": "Defina precedência de operador e associatividade de operador.",
+        "r1": {"texto": "A precedência de um operador define a ordem em que os operadores são avaliados em uma expressão", "gabarito": true},
+        "r2": {"texto": "Olavo", "gabarito": false},
+        "r3": {"texto": "Olavo", "gabarito": false},
+        "r4": {"texto": "Olavo", "gabarito": false}
+    },
+    {
+        "pergunta": "Qual o seu bilaci?",
+        "r1": {"texto": "Olavo", "gabarito": false},
+        "r2": {"texto": "Ol", "gabarito": false},
+        "r3": {"texto": "Olavo", "gabarito": false},
+        "r4": {"texto": "Olavo", "gabarito": false}
+    },
+    {
+        "pergunta": "Qual o jubi jubi?",
+        "r1": {"texto": "Olavo", "gabarito": false},
+        "r2": {"texto": "Olavo", "gabarito": false},
+        "r3": {"texto": "Olavo", "gabarito": false},
+        "r4": {"texto": "Olavo", "gabarito": false}
+    },
+    {
+        "pergunta": "Qual o seu acido?",
+        "r1": {"texto": "Olavo", "gabarito": false},
+        "r2": {"texto": "Olavo", "gabarito": false},
+        "r3": {"texto": "Olavo", "gabarito": false},
+        "r4": {"texto": "Olavo", "gabarito": false}
+    }
+]
